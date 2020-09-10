@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 192.168.10.100
+    username: zhangsan
+    password: 123456
+    virtual-host: /shopping
+    port: 5672
